@@ -1,7 +1,3 @@
-Perfect! Since you're now confident with Git and syncing to GitHub, let's move on to crafting beautiful `.md` (Markdown) files — just like the professional walkthroughs you admire (e.g. pred07 style).
-
----
-
 ## ✅ What Is Markdown?
 
 Markdown is a lightweight markup language used to format plain text. GitHub automatically **renders** `.md` files to look beautiful with headings, images, tables, code blocks, etc.
@@ -84,34 +80,4 @@ Renders as:
 * Use **images** right after important steps (proof of concept, flags).
 * Add **tables** to organize bypasses, tools, and payloads.
 * Keep it clean — prefer `##` for major sections, `###` for sub-points.
-
----
-
-## 🧰 Want a Ready Template?
-
-If you want a `.md` file template that looks like this:
-
-```
-# HTB: Module Name
-
-## 🎯 Objective
-
-## ⚙️ Setup
-
-## 🔍 Enumeration
-
-## 🔓 Exploitation
-
-## 🏁 Flag
-
-## 📚 References
-```
-
-Just say the word, I’ll send it ready-to-fill.
-
----
-
-Ready to try building your first real `.md` file now? Or want a “template + guide + image folder structure” all-in-one example?
-
-
 
